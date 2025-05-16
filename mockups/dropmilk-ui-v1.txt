@@ -1,1 +1,4 @@
+# This is a placeholder.
+# Coming soon: mockup image showing the DropMilk visual editor UI
+# Think: waveform preview + sliders + color picker + preset browser
 
