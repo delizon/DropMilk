@@ -1,0 +1,3 @@
+# Vision
+
+DropMilk is a visual music experience generator inspired by MilkDrop...
